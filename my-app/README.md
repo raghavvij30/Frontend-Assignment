@@ -8,20 +8,3 @@ This React application enables users to paste a UI schema in a JSON editor and p
 - **Dynamic Form Rendering**: Automatically renders a form based on the provided UI schema.
 
 
-## Prerequisites
-
-Before running the application, ensure you have Node.js and npm installed. You can download them from the [Node.js website](https://nodejs.org/).
-
-## Installation
-
-To set up the application on your local machine, follow these steps:
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/raghavvij30/Frontend-Assignment.git
-
-2. **Install Dependencies**
-   npm install
-
-3. **Run the Application**
-   npm start
